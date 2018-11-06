@@ -1,0 +1,55 @@
+
+.card-img-top {
+    height: 150px;
+    width: 150px;
+}
+
+.btn {
+    margin-top: 120px;
+    width: 150px;
+    background-color: teal;
+}
+
+.card-img-overlay {
+    padding: 0px;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.rock {
+    font-size: 12px;
+}
+
+h1 {
+    background-color: teal;
+    color: white;
+    margin-left: 30px;
+    padding: 8px;
+}
+
+.collapse {
+    margin-right: 50px;
+}
+
+.submit {
+    margin-top: 0px;
+}
+
+h2 {
+    color: teal;
+    margin-top: 0px;
+}
+
+.jumbotron {
+    padding-top: 15px;
+}
+
+p {
+    padding-top: 15px;
+}
+
+.float-left {
+    padding-top: 15px;
+}
